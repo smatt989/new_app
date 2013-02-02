@@ -108,5 +108,5 @@ DEPENDENCIES
   jquery-rails
   rails (= 3.2.11)
   sass-rails (~> 3.2.3)
-  sqlite3-ruby (= 1.2.5)
+  sqlite3-ruby
   uglifier (>= 1.0.3)
